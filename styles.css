@@ -30,20 +30,17 @@ h4 {
 @@media (min-width: 650px)
  {
    .articles {
+     font-family: tahoma; */change*/
      width: 50%;
      float: left;
    }
 
-   .articles ol {
-     font-family: sans-serif; */change*/
-   }
 
    .books {
      width: 50%;
      float: left;
+     font-family: tahoma; */change*/
    }
 
-   .books ul {
-     font-family: sans-serif; */change*/
-   }
+
 }
