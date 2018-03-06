@@ -14,6 +14,7 @@ h4 {
 h2 {
   font-family: sans-serif; /*change*/
   text-decoration: underline; /*change*/
+  font-stretch: expanded; /*change*/
 }
 
 .container {
@@ -26,7 +27,7 @@ h2 {
 }
 
 .container h2 {
-  text-transform: capitalize;
+  text-transform: capitalize; /*change*/
 }
 
 .container h4 {
