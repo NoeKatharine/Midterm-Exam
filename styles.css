@@ -1,5 +1,9 @@
+body {
+  background: #3b5998;
+}
+
 .container {
   max-width: 600px;
   margin: 0 auto;
-  background: #DFE6EE
+  background: ##dfe3ee;
 }
