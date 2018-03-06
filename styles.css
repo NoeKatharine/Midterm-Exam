@@ -4,7 +4,7 @@ body {
 
 .container {
   max-width: 600px;
-  margin: 0 auto;
+  position: relative;
   background: #dfe3ee;
   padding: 5px 5px 5px 5px;
   border: 5px solid #8b9dc3;
