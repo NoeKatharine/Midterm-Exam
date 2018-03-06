@@ -33,8 +33,17 @@ h4 {
      width: 50%;
      float: left;
    }
+
+   .articles ol {
+     font-family: sans-serif; */change*/
+   }
+
    .books {
      width: 50%;
      float: left;
+   }
+
+   .books ul {
+     font-family: sans-serif; */change*/
    }
 }
