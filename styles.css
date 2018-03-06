@@ -11,5 +11,15 @@ body {
   margin: 10px;
 }
 
+.articles {
+  width: 50%;
+  float: left;
+}
+
+.books {
+  width: 50%;
+  float: left;
+}
+
 * { overflow: auto;
 }
