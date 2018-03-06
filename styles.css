@@ -2,6 +2,10 @@ body {
   background: #3b5998;
 }
 
+h4 {
+  margin: 10px;
+}
+
 .container {
   max-width: 600px;
   position: relative;
@@ -11,15 +15,17 @@ body {
   margin: 10px;
 }
 
-.articles {
-  width: 50%;
-  float: left;
-}
-
-.books {
-  width: 50%;
-  float: left;
-}
-
 * { overflow: auto;
+}
+
+@@media (min-width: 650px)
+ {
+   .articles {
+     width: 50%;
+     float: left;
+   }
+   .books {
+     width: 50%;
+     float: left;
+   }
 }
